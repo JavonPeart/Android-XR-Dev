@@ -35,4 +35,3 @@
   #### Tasks: 
   + _allow a user to switch between VR and AR views_
   + _place augmented objects into their surroundings_
-  + _show off my software development skills_
